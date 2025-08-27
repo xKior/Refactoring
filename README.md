@@ -11,4 +11,4 @@ Este repositorio contiene un ejemplo de **estructura básica de un entorno virtu
 
 refactoring.py → ejemplo de mejora de código aplicando buenas prácticas (nombres descriptivos, validación robusta, manejo de errores, separación de responsabilidades).
 
-solid_example.py → implementación de un sistema básico de notificaciones aplicando los principios
+solid.py → implementación de un sistema básico de notificaciones aplicando los principios
