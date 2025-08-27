@@ -1,0 +1,4 @@
+ENV=development
+DEBUG=True
+DATABASE_URL=sqlite:///./dev.db
+SECRET_KEY=example_secret
